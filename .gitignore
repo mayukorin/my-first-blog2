@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Nov 17 18:07:01 2020
+
+@author: Mayuko
+"""
+
+
+*.pyc
+*~
+/.vscode
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
